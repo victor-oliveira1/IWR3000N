@@ -1,8 +1,10 @@
 # IWR3000N
 Biblioteca de configuração do roteador wifi Intelbras IWR3000N  
+![IWR3000N](https://raw.githubusercontent.com/victor-oliveira1/IWR3000N/master/roteador.jpg)
 
 Esta biblioteca foi criada para configurar rapidamente lotes de roteadores  
-Intelbras IWR3000N. Pode funcionar com outros roteadores da fabricante.  
+Intelbras IWR3000N.  
+**Pode funcionar com outros roteadores do fabricante.**  
   
 ## 1. Uso  
 A API do roteador trabalha com dados JSON, então para qualquer operação,  
