@@ -28,11 +28,11 @@ reiniciar o dispositivo:
 \>\>\> conf.login('admin', 'teste')  
 \>\>\> conf.apiget('system/reboot')  
 
-Para maior comodidade, foram adicionados também os valores padrões nas
-variáveis do: host, usuário e senha, bastando apenas executar as funções.
+**Nota:** Para maior comodidade, foram adicionados também os valores padrões nas
+variáveis do: **host, usuário e senha**, bastando apenas executar as funções.
 
 ## 3. Changelog
-1.0 - 08/10/2018  
+**1.0** - 08/10/2018  
 * Primeira versão  
 
 Victor Oliveira <victor.oliveira@gmx.com>
